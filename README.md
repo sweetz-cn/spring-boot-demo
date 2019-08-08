@@ -6,6 +6,7 @@
 
 ### 2. properties配置信息填充到实体
 > 此功能方便再代码中获取properties文件的配置的信息
+[Spring Boot （三） 将配置自动封装到实体](https://blog.csdn.net/u010865736/article/details/98842164)
 
 ### 3. Spring Boot中添加自定义拦截器
 
@@ -26,3 +27,5 @@
 ### 11. Spring Boot全局异常处理
 
 ### 12 常用的工具类
+* cn.sweetz.exercise.springbootdemo.common.utils.StringUtils 字符串工具类
+* cn.sweetz.exercise.springbootdemo.common.utils.ChineseCharacter2PinyinUtil 中文汉字转拼音
